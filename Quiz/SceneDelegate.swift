@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Quiz
 //
-//  Created by Xiang Xiao on 12/28/22.
+//  Created by Albus Xiao on 12/28/22.
 //
 
 import UIKit
